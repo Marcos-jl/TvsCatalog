@@ -1,0 +1,155 @@
+{
+	"info": {
+		"_postman_id": "02121f8e-7dd8-4cdb-af13-a65d291cfacf",
+		"name": "Tvs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Listar Tvs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar Tv",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/tvs/123",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs",
+						"123"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Incluir Tv1",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4551,\n    \"marca\": \"TCL\",\n    \"preco\": 1200,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-18T21:09:24.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Incluir Tv2",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4551,\n    \"marca\": \"TCL\",\n    \"preco\": 1200,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-18T21:09:24.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Alterar Tv2",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4551,\n    \"marca\": \"TCL\",\n    \"preco\": 1200,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-18T21:09:24.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Deletar Tv1",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4551,\n    \"marca\": \"TCL\",\n    \"preco\": 1200,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-18T21:09:24.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs/123",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs",
+						"123"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
