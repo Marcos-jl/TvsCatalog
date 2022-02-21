@@ -59,16 +59,5 @@ use "localhost:8080/tvs.java" como url
 
 - ##### Ao clicar na lupa, coluna de ações, é possível visualizar detalhes da Tv.
 
-  
-
-## :paperclip: Anexos:
-
-![Visão Geral](https://drive.google.com/file/d/1s-zz0bmvIO5J_wHvoGqpheQmvREHQDxB/view?usp=sharing)
-
-![Filtros](https://drive.google.com/file/d/1w08mLNYeE1JSKlFEVPz4s50ZvCR0dIqc/view?usp=sharing)
-
-![Detalhes](https://drive.google.com/file/d/1Xr0CeoK60ZugThH3NleEGfbkqKT0Ga5V/view?usp=sharing)
-
-
 
 **Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto.** :new_moon_with_face:
