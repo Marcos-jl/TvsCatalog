@@ -3,12 +3,12 @@ version: '3.8'
 services:
   mysql-db:
     image: mysql:8.0
-    container_name: tvsCatalog-mysql
+    container_name: tvCatalog-mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: 472180
-      MYSQL_DATABASE: tvsCatalogDB
+      MYSQL_ROOT_PASSWORD: Ac160301*
+      MYSQL_DATABASE: tvCatalogDB
     ports:
-       - "3386:3386"
+    - "3306:3306"
     cap_add:
-        - SYS_NICE
+      - SYS_NICE
