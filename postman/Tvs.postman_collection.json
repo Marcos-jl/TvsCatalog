@@ -49,7 +49,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"cod\" : 4551,\n    \"marca\": \"TCL\",\n    \"preco\": 1200,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-18T21:09:24.0Z\"\n\n}",
+					"raw": "{\n    \"cod\" : 4551,\n    \"marca\": \"TCL\",\n    \"preco\": 1200,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-21T17:14:30.0Z\"\n\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -76,7 +76,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"cod\" : 4551,\n    \"marca\": \"TCL\",\n    \"preco\": 1200,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-18T21:09:24.0Z\"\n\n}",
+					"raw": "{\n    \"cod\" : 4555,\n    \"marca\": \"Sansung\",\n    \"preco\": 1100,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Tizen\",\n    \"dataCadastro\" : \"2022-02-21T21:17:12.54Z\"\n\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -97,7 +97,115 @@
 			"response": []
 		},
 		{
-			"name": "Alterar Tv2",
+			"name": "Incluir Tv3",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4598,\n    \"marca\": \"LG\",\n    \"preco\": 2500,\n    \"tec\": \"Led\",\n    \"res\": \"4k\",\n    \"so\" : \"WebOS\",\n    \"dataCadastro\" : \"2022-02-21T17:14:14.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Incluir Tv4",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4557,\n    \"marca\": \"LG\",\n    \"preco\": 4200,\n    \"tec\": \"led\",\n    \"res\": \"8K\",\n    \"so\" : \"WebOS\",\n    \"dataCadastro\" : \"2022-02-21T17:18:05.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Incluir Tv5",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4576,\n    \"marca\": \"Sansung\",\n    \"preco\": 1300,\n    \"tec\": \"Led\",\n    \"res\": \"FULL HD\",\n    \"so\" : \"Tizen\",\n    \"dataCadastro\" : \"2022-02-21T17:20:24.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Incluir Tv6",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"cod\" : 4542,\n    \"marca\": \"AOC\",\n    \"preco\": 1100,\n    \"tec\": \"Led\",\n    \"res\": \"HD\",\n    \"so\" : \"Android Tv\",\n    \"dataCadastro\" : \"2022-02-21T17:37:10.0Z\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/tvs",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"tvs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Alterar",
 			"request": {
 				"method": "PUT",
 				"header": [],

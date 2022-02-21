@@ -8,6 +8,17 @@
       </list>
     </option>
   </component>
+  <component name="ProjectResources">
+    <resource url="com/sun/faces" location="$PROJECT_DIR$/apache-maven-3.8.4/conf/settings.xml" />
+    <resource url="http://exslt.org/common" location="$PROJECT_DIR$" />
+    <resource url="http://exslt.org/dates-and-times" location="$PROJECT_DIR$" />
+    <resource url="http://primefaces.org/ui" location="$PROJECT_DIR$" />
+    <resource url="http://relaxng.org/ns/compatibility/annotations/1.0" location="$PROJECT_DIR$" />
+    <resource url="http://www.w3.org/1999/xhtml" location="$PROJECT_DIR$" />
+    <resource url="http://xmlns.jcp.org/jsf/core" location="$PROJECT_DIR$" />
+    <resource url="http://xmlns.jcp.org/jsf/html" location="$PROJECT_DIR$" />
+    <resource url="standardSchemas/XMLSchemas-1_1" location="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
   <component name="ProjectType">
     <option name="id" value="jpab" />

@@ -20,6 +20,6 @@ public class Tv {
     private double preco; //Preço da Tv.
     private String tec; //Led, Lcd, Plamas, Crystal.
     private String res; //HD, FULL HD, 4K, 8K, IA.
-    private String SO; //Tizen, WebOs, Roku, Android Tv.
+    private String so; //Tizen, WebOs, Roku, Android Tv.
     private Instant dataCadastro;
 }

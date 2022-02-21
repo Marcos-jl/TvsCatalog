@@ -22,7 +22,7 @@ public class TvsCatalogApplication {
 	public ServletRegistrationBean facesServletRegistration() {
 		ServletRegistrationBean registration = new ServletRegistrationBean<>(new FacesServlet(), "*.xhtml");
 		registration.setLoadOnStartup(1);
-		registration.addUrlMappings("*.jr");
+		registration.addUrlMappings("*.java");
 		return registration;
 	}
 
@@ -30,7 +30,7 @@ public class TvsCatalogApplication {
 	public ServletContextInitializer servletContextInitializer() {
 		return servletContext -> {
 			servletContext.setInitParameter("com.sun.faces.forceLoadConfiguration", Boolean.TRUE.toString());
-			servletContext.setInitParameter("primefaces.THEME", "redmond");
+			servletContext.setInitParameter("primefaces.THEME", "rocket");
 		};
 	}
 
