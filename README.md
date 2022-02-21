@@ -13,7 +13,18 @@
 - Docker (Empacotamento de aplicação).
 - Postman (API de testes relacionado a banco de dados).
 
+## :pencil:**Pré-requisitos para melhor entendimento:** 
 
+- Java
+- IntelliJ ou Eclipse
+- Docker
+- Postman
+- Spring boot
+- Java Serve Face
+- Maven
+- MySQL
+
+## 👣 Comandos Relevantes:
 
  **Executando Banco de Dados:**
 
@@ -64,4 +75,4 @@ use "localhost:8080/tvs.java" como url
 
 
 
-**Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto. ** :new_moon_with_face:
+** Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto. ** :new_moon_with_face:
