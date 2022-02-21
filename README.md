@@ -2,7 +2,7 @@
 
 ##### Este projeto é um desafio da empresa FFIT em busca de testar o domínio e  organização aplicado no código. 
 
-##### Seguindo os requisitos, esta aplicação foi implementada com auxílio do Spring boot e Java Serve Face.
+##### Seguindo os requisitos, esta aplicação Java foi implementada com auxílio do Spring boot e Java Serve Face.
 
 
 
