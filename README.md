@@ -15,21 +15,25 @@
 
 
 
-##  :footprints: **Comandos de execução:**
+ **Executando Banco de Dados:**
 
 ```
-//Executando Banco de Dados
-
 cd docker
 
 docker-compose up
 
-//Executando a IDE
+```
 
+ **Executando IDE:**
+ 
+```
 execute "TvsCatalogApplication.java"
 
-//Executando Aplicação
+```
 
+**Executando Aplicação:**
+
+```
 abra o navegador
 
 use "localhost:8080/tvs.java" como url
@@ -52,11 +56,11 @@ use "localhost:8080/tvs.java" como url
 
 ## :computer: Aplicação:
 
-##### - No que diz respeito a aplicação, possuí filtro de busca para todas as características das tvs, bem como modo de ordenação pelos mesmos. 
+- ##### Possuí filtro de busca para todas as características de tvs, bem como modo de ordenação pelos mesmos. 
 
-##### - Além disso, é possível exportar um relatório do catálogo no formato pdf, xlsx, csv, e xml. 
+- ##### É possível exportar um relatório do catálogo no formato pdf, xlsx, csv, e xml. 
 
-##### - Ao clicar na lupa, coluna de ações, é possível visualizar detalhes da Tv.
+- ##### Ao clicar na lupa, coluna de ações, é possível visualizar detalhes da Tv.
 
 
 
