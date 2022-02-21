@@ -1,8 +1,8 @@
 # Catálogo de Televisores :tv:
 
-#### Este projeto é um desafio da empresa FFIT em busca de testar o domínio e  organização aplicado no código. 
+##### Este projeto é um desafio da empresa FFIT em busca de testar o domínio e  organização aplicado no código. 
 
-#### Seguindo os requisitos, esta aplicação foi implementada com auxílio do Spring boot e Java Serve Face.
+##### Seguindo os requisitos, esta aplicação foi implementada com auxílio do Spring boot e Java Serve Face.
 
 
 
@@ -51,20 +51,6 @@ use "localhost:8080/tvs.java" como url
 ```
 
 
-
-## :pencil:**Pré-requisitos para melhor entendimento:** 
-
-- Java
-- IntelliJ ou Eclipse
-- Docker
-- Postman
-- Spring boot
-- Java Serve Face
-- Maven
-- MySQL
-
-
-
 ## :computer: Aplicação:
 
 - ##### Possuí filtro de busca para todas as características de tvs, bem como modo de ordenação pelos mesmos. 
@@ -75,4 +61,4 @@ use "localhost:8080/tvs.java" como url
 
 
 
-** Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto. ** :new_moon_with_face:
+**Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto.** :new_moon_with_face:
