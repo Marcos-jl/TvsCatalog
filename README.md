@@ -63,11 +63,11 @@ use "localhost:8080/tvs.java" como url
 
 ## :paperclip: Anexos:
 
-![Visão Geral](C:\Users\Administrator\Downloads\01.jpg)
+![Visão Geral](https://drive.google.com/file/d/1s-zz0bmvIO5J_wHvoGqpheQmvREHQDxB/view?usp=sharing)
 
-![Filtros](C:\Users\Administrator\Downloads\02.jpg)
+![Filtros](https://drive.google.com/file/d/1w08mLNYeE1JSKlFEVPz4s50ZvCR0dIqc/view?usp=sharing)
 
-![Detalhes](C:\Users\Administrator\Downloads\03.jpg)
+![Detalhes](https://drive.google.com/file/d/1Xr0CeoK60ZugThH3NleEGfbkqKT0Ga5V/view?usp=sharing)
 
 
 
