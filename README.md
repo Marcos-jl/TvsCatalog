@@ -36,7 +36,7 @@ docker-compose up
 ```
 
  **Executando IDE:**
- 
+
 ```
 execute "TvsCatalogApplication.java"
 
@@ -58,6 +58,16 @@ use "localhost:8080/tvs.java" como url
 - ##### É possível exportar um relatório do catálogo no formato pdf, xlsx, csv, e xml. 
 
 - ##### Ao clicar na lupa, coluna de ações, é possível visualizar detalhes da Tv.
+
+  
+
+## :paperclip: Anexos:
+
+![Visão Geral](C:\Users\Administrator\Downloads\01.jpg)
+
+![Filtros](C:\Users\Administrator\Downloads\02.jpg)
+
+![Detalhes](C:\Users\Administrator\Downloads\03.jpg)
 
 
 
