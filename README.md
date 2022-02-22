@@ -64,8 +64,11 @@ use "localhost:8080/tvs.java" como url
 ## 📎 Links Úteis:
 
 **Java 11:** https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html
+
 **IntelliJ IDEA:** https://www.jetbrains.com/pt-br/idea/download/#section=windows
+
 **Docker:** https://www.docker.com/products/docker-desktop
+
 **Postman:** https://www.postman.com/downloads/
 
 
