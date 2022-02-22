@@ -61,5 +61,12 @@ use "localhost:8080/tvs.java" como url
 
 - ##### No projeto tem uma pasta "postman" com o arquivo de importação do banco de dados para testar a apliacação (Nescessário instalar Postman).
 
+## 📎 Links Úteis:
+
+**Java 11:** https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html
+**IntelliJ IDEA:** https://www.jetbrains.com/pt-br/idea/download/#section=windows
+**Docker:** https://www.docker.com/products/docker-desktop
+**Postman:** https://www.postman.com/downloads/
+
 
 **Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto.** :new_moon_with_face:
