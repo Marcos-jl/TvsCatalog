@@ -59,5 +59,7 @@ use "localhost:8080/tvs.java" como url
 
 - ##### Ao clicar na lupa, coluna de ações, é possível visualizar detalhes da Tv.
 
+- #### No projeto tem uma pasta "postman" com o arquivo de importação do banco de dados para testar a apliacação (Nescessário instalar Postman).
+
 
 **Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto.** :new_moon_with_face:
