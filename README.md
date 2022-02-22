@@ -67,11 +67,11 @@ use "localhost:8080/tvs.java" como url
 
 **IntelliJ IDEA:** https://www.jetbrains.com/pt-br/idea/download/#section=windows
 
+**Spring Initializr:** https://start.spring.io/
+
 **Docker:** https://www.docker.com/products/docker-desktop
 
 **Postman:** https://www.postman.com/downloads/
-
-**Spring Initializr:** https://start.spring.io/
 
 
 **Sintam-se convidados a tirar dúvidas ou sugerir melhorias na aplicação, bem como engajar com críticas construtivas neste projeto.** :new_moon_with_face:
